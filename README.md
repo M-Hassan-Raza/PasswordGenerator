@@ -1,6 +1,6 @@
 # PasswordGenerator
 A modern looking password generator
 
-## A basic calculator is able to add, subtract, multiply or divide two numbers. Elegent use of Keyframes, Linear Gradients, and Animation to produce a beautiful background aesthetic. 
+## A modern looking, strong password generator that offer multiple parameters to users in order to generate a strong password to help them keep their accounts safe. 
 
 <img src = "/images/Screenshot.png">
